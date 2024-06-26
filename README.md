@@ -1,5 +1,6 @@
 ## Demo_Authentication_System_cpp
-![Screenshot 2024-06-27 012424](https://github.com/SimarjeetxSingh/Demo_Authentication_System_cpp/assets/130891817/46c4e89b-279a-4bc4-acf8-488c54fff172)
+![image](https://github.com/SimarjeetxSingh/Demo_Authentication_System_cpp/assets/130891817/1ee3934b-d0b7-4797-ab84-a087ed6548c8)
+
 
 # Security System in C++
 ## Overview
@@ -131,6 +132,7 @@ This section handles user login by verifying the entered credentials against tho
 
 ![Screenshot 2024-06-27 011636](https://github.com/SimarjeetxSingh/Demo_Authentication_System_cpp/assets/130891817/8bff3955-4b3e-4926-907f-4e9881391e1c)
 <hr>
+
 ### Change Password
 ```cpp
 case 3: {
@@ -181,6 +183,7 @@ This section allows the user to change their password by first verifying the old
 
 ![Screenshot 2024-06-27 011652](https://github.com/SimarjeetxSingh/Demo_Authentication_System_cpp/assets/130891817/0cd17c14-de15-43ff-8e0b-27a1a4784c1c)
 <hr>
+
 ### End Program
 ```cpp
 case 4: {
